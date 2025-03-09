@@ -1,0 +1,191 @@
+*{
+    background-color:greenyellow;
+}
+h1{
+    background-color:green;
+}
+h2{
+    background-color: yellow;
+    color:black;
+}
+h3{
+    background-color: blue;
+    color:aqua;
+}
+h1:hover{
+    
+}
+.myHeader{
+    width:500px;
+    background-color:green;
+    height:200px;
+    margin:0 auto;
+    display:flex;
+    justify-content: center;
+    
+}
+#mySection{
+    margin:0 auto;
+    width:500px;
+    height:200px;
+    border:1px solid yellow;
+}
+#mySecondSection{
+    width:500px;
+    height:200px;
+    border:1px solid black;
+    display:flex;
+    margin:0 auto;
+}
+.myThirdSection{
+    width:500px;
+    height:500px;
+    background-color:green;
+}
+#firstImage{
+    width:100%;
+    height:auto;
+    max-height:100%;
+}
+#firstImage:hover{
+   
+}
+.imageGroup{
+    border:1px solid black;
+    width:33%;
+    max-height:100%;
+}
+.imageGroupMiddle{
+    width:33%;
+    height:100%;
+    background-color: green;
+}
+.theMiddle{
+    background-color:green;
+    color:black;
+}
+#secondImage{
+    width:100%;
+    height: 100%;
+}
+#thirdImage{
+    width:100%;
+    height: 100%;
+}
+
+#fourthImage{
+    width: 200px;
+    height: 100px;
+    background-color: bisque;
+}
+#fifthImage{
+    width:200px;
+    height:100px;
+    background-color: antiquewhite;
+}
+#sixthImage{
+    width:100px;
+    height:100px;
+}
+#seventhImage{
+    width:100px;
+    height:100px;
+    
+}
+.myPhotoDiv{
+    display:flex;
+    background-image: url("https://media.istockphoto.com/id/1901603077/photo/happy-playful-puppy-portrait-white-yellow-labrador-back-yard-grass.jpg?s=1024x1024&w=is&k=20&c=pd3WaxKMhFn_4pdjwi7HvoOnNL1Z2CsEF3N8wqCOIAo=");
+    background-position:right;
+    background-size:contain;
+    background-repeat:no-repeat;
+    width:100px;
+    height:auto;
+    justify-content:flex-start;
+    width:100%;
+    height:500px;
+    border:2px solid violet;
+    border-radius: 10px;
+    margin: 5px;
+}
+#myPhoto{
+    width:500px;
+    border:3px solid green;
+    border-radius: 4px;
+}
+.myPuppyDiv{
+    display:flex;
+    width:100%;
+    justify-content: center;
+    background-color:yellow;
+    border:3px solid black;
+    border-radius: 3px;
+}
+#myPuppy{
+    width:500px;
+    border:3px solid violet
+}
+#addSection{
+   width:500px;
+   height:100px;
+   margin:0 auto;
+   display:flex;
+   justify-content:center; 
+   border:1px solid black;
+   background-color: blueviolet;
+}
+.addDiv{
+    width:500px;
+    height:80px;
+    border:2px solid black;
+    background-color: red;
+}
+p{
+    color:black;
+    font-size:40px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align:center;
+    background-color: aqua;
+}
+#myThirdSection{
+    display:flex;
+    justify-content: center;
+    width:500px;
+    height:200px;
+    margin:0 auto;
+}
+#fourthImage{
+    width:50%;
+    height:100%;
+}
+#fifthImage{
+    width:50%;
+    height:100%;
+}
+#fourthImag{
+    width:100%;
+    height:100%;
+}
+#fifthImag{
+    width:100%;
+    height:100%;
+}
+.finalImage{
+    width:100%;
+    height:200px;
+    border:1px solid black;
+    display:flex;
+
+}
+#sixthImage{
+    width:50%;
+    height:100%
+}
+#seventhImage{
+    width:50%;
+    height:100%;
+}
+.mg{
+    text-align: center;
+}
+
+
